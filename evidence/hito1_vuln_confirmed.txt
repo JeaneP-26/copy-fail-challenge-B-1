@@ -1,0 +1,6 @@
+--------HITO 1: KERNEL VULNERABLE CONFIRMADO---------------
+
+Kernel: 6.12.0
+Usuario: student
+
+Nota: La VM minimalista no incluye lsmod ni /proc/modules, pero el kernel vulnerable arranco correctamente en QEMU.
